@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jmejias14/AndroidStudioProjects/ChattDemoMain/app/libs/Parse-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1724acfaa5ad53f76aad702318391fed16cd98ca">
+        <dex dex="/Users/jmejias14/AndroidStudioProjects/ChattDemoMain/app/build/intermediates/pre-dexed/debug/Parse-1.4.0-1db4075b1d2e2c96e6ad3438849693eaa30f52a6.jar" />
+    </item>
+    <item
+        jar="/Users/jmejias14/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/jmejias14/AndroidStudioProjects/ChattDemoMain/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-c14440c4874dcf4754293449a8607d1e032cc96b.jar" />
+    </item>
+
+</items>
